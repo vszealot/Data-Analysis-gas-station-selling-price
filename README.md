@@ -2831,7 +2831,7 @@ plt.show()
 
 
     
-![png](output_27_0.png)
+![png](https://user-images.githubusercontent.com/44217050/152714686-421ed62c-d343-49b4-bf91-1bf314f8a458.png)
     
 
 
@@ -2864,7 +2864,7 @@ plt.show()
 
 
     
-![png](output_28_0.png)
+![output_28_0](https://user-images.githubusercontent.com/44217050/152714713-bf5d8423-f068-471e-97a7-d28f0df5eec3.png)
     
 
 
