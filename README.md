@@ -2892,7 +2892,7 @@ plt.show()
 
 
     
-![png](output_29_0.png)
+![output_29_0](https://user-images.githubusercontent.com/44217050/152714806-4a7c64b3-fa80-4eb4-8709-52108dd6099c.png)
     
 
 
@@ -2913,7 +2913,7 @@ plt.show()
 
 
     
-![png](output_30_1.png)
+![output_30_1](https://user-images.githubusercontent.com/44217050/152714837-900a3efe-2463-4644-8f8d-2e8c78eb0c43.png)
     
 
 
@@ -3242,7 +3242,7 @@ plt.show()
 
 
     
-![png](output_32_0.png)
+![output_32_0](https://user-images.githubusercontent.com/44217050/152714854-d45610ca-f8eb-4f70-b217-e65cc4e2fb9f.png)
     
 
 
@@ -3576,7 +3576,7 @@ plt.show()
 
 
     
-![png](output_36_0.png)
+![output_36_0](https://user-images.githubusercontent.com/44217050/152714887-c19c9f92-1617-4c37-808f-1f99cec103a1.png)
     
 
 
@@ -3834,7 +3834,7 @@ for i, j in enumerate(a) :
 
 
     
-![png](output_39_0.png)
+![output_39_0](https://user-images.githubusercontent.com/44217050/152714904-56fdfeb0-7cd2-428d-9f1a-f0070f4cefdd.png)
     
 
 
@@ -3873,7 +3873,7 @@ for i, j in enumerate(a) :
 
 
     
-![png](output_40_0.png)
+![output_40_0](https://user-images.githubusercontent.com/44217050/152714914-956348f3-a5ef-464a-85b5-55cf5d4a765e.png)
     
 
 
@@ -3899,6 +3899,6 @@ for i, j in enumerate(a) :
 
 
     
-![png](output_41_0.png)
+![output_41_0](https://user-images.githubusercontent.com/44217050/152714920-8ff084d3-6674-45c1-9ed8-2d8ac9a07c25.png)
     
 
