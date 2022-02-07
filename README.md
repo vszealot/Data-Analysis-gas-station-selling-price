@@ -2541,11 +2541,6 @@ new_df
 </table>
 </div>
 
-
-
-# 받은거
-
-
 ```python
 import folium
 import json
@@ -2812,7 +2807,7 @@ plt.show()
 
 
     
-![png](output_26_0.png)
+![png](https://user-images.githubusercontent.com/44217050/152714600-3cf39dad-6268-4639-94e5-a782f2c98f1a.png)
     
 
 
